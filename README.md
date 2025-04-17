@@ -4,7 +4,7 @@
 [![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](LICENSE)
 [![Uses LLM](https://img.shields.io/badge/Uses-LLM%20API-blueviolet.svg)]()
 
-**historai is an AI-powered Go CLI Tool that helps you find commands in your shell history and suggests new commands based on your needs, using natural language.**
+**historai is an LLM-powered Go CLI Tool that helps you find commands in your shell history and suggests new commands based on your needs, using natural language.**
 
 ## 🤔 Why historai?
 
