@@ -2,8 +2,6 @@ package cli
 
 import (
 	"fmt"
-	"os"
-
 	"github.com/spf13/cobra"
 	"go.uber.org/zap"
 )
@@ -48,14 +46,6 @@ Find or discover commands based on what they do, not just keywords.`,
 // Execute adds all child commands to the root command and sets flags appropriately.
 func Execute() error {
 	err := rootCmd.Execute()
-
-	if logger != nil {
-		syncErr := logger.Sync()
-		if syncErr != nil {
-			fmt.Fprintf(os.Stderr, "Warning: logger sync failed: %v\n", syncErr)
-		}
-	}
-
 	return err
 }
 
