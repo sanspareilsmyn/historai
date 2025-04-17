@@ -5,7 +5,7 @@
 [![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](LICENSE)
 [![Uses LLM](https://img.shields.io/badge/Uses-LLM%20API-blueviolet.svg)]()
 
-<a href="https://www.buymeacoffee.com/sanspareilsmyn"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=&slug=sanspareilsmyn&button_colour=FFDD00&font_colour=000000&font_family=Cookie&outline_colour=000000&coffee_colour=ffffff" /></a>
+<a href="https://www.buymeacoffee.com/sanspareilsmyn"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=&slug=sanspareilsmyn&button_colour=FFDD00&font_colour=000000&font_family=Cookie&outline_colour=000000&coffee_colour=ffffff" /></a><a href="https://www.producthunt.com/posts/historai?embed=true&utm_source=badge-featured&utm_medium=badge&utm_souce=badge-historai" target="_blank"><img src="https://api.producthunt.com/widgets/embed-image/v1/featured.svg?post_id=954704&theme=light&t=1744898522323" alt="historai - No&#0032;more&#0032;&#0039;history&#0032;&#0124;&#0032;grep&#0039;&#0046;&#0032;Let&#0032;AI&#0032;recall&#0032;your&#0032;commands&#0046; | Product Hunt" style="width: 250px; height: 54px;" width="250" height="54" /></a>
 
 **historai is an LLM-powered Go CLI Tool that helps you find commands in your shell history and suggests new commands based on your needs, using natural language.**
 
