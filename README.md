@@ -1,4 +1,4 @@
-# historai
+![historai2.png](asset%2Fhistorai2.png)
 
 [![Go Version](https://img.shields.io/badge/Go-1.22+-00ADD8.svg)](https://golang.org/)
 [![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](LICENSE)
@@ -6,6 +6,9 @@
 
 **historai is an LLM-powered Go CLI Tool that helps you find commands in your shell history and suggests new commands based on your needs, using natural language.**
 
+![demo.gif](asset%2Fdemo.gif)
+
+<a href="https://www.buymeacoffee.com/sanspareilsmyn"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=&slug=sanspareilsmyn&button_colour=FFDD00&font_colour=000000&font_family=Cookie&outline_colour=000000&coffee_colour=ffffff" /></a>
 ## 🤔 Why historai?
 
 Your shell history (e.g., `~/.zsh_history`, `~/.bash_history`) is a personal knowledge base, but accessing its full potential can be difficult:
